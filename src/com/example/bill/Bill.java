@@ -4,4 +4,8 @@ public class Bill {
 	public Bill(){
 		
 	}
+	
+	private void billTest(){
+		
+	}
 }
