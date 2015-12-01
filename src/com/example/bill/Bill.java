@@ -8,4 +8,11 @@ public class Bill {
 	private void billTest(){
 		
 	}
+	
+	private void billTest1(){
+		
+	} 
+	private void billTest2(){
+		
+	} 
 }
